@@ -16,6 +16,9 @@
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" alt="Sass" height="30" width="40" src="https://vijayt.com/wp-content/uploads/2018/01/logo.png" />
+  <img align="center" alt="Sass" height="30" width="40" src="https://user-images.githubusercontent.com/38039349/60953119-d3c6f300-a2fc-11e9-9596-4978e5d52180.png" />
+  <img align="center" alt="Sass" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/ESLint_logo.svg/1200px-ESLint_logo.svg.png" />
+  
 
 </div>
   
