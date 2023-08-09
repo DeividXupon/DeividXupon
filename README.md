@@ -1,6 +1,6 @@
 ### Olá, sou o Deivid Silva 👋
 
-🌱 Atualmente estou aprendendo React<br>
+🌱 Atualmente estou aprendendo Next.js<br>
 👯 estou querendo colaborar em um projeto profissional para minha carreira<br>
 📫 Como chegar até mim: deivid.silva.info@gmail.com<br>
 
