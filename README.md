@@ -20,11 +20,9 @@
   ##
  
 <div >
-<a><img src="https://cdn-icons-png.flaticon.com/512/3240/3240652.png" target="_blank" width="30" height="30"></a>
   <a href="https://www.youtube.com/@xupondev8925" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href = "mailto:deivid.silva.info@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/deividsouzasilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a><img src="https://cdn-icons-png.flaticon.com/512/3240/3240690.png" target="_blank" width="30" height="30"></a>
 
 </div>
 
